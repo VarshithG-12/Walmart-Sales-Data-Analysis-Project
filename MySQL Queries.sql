@@ -1,10 +1,6 @@
 -- Walmart Project Queries - MySQL
 
-SELECT * FROM walmart;
-
--- DROP TABLE walmart;
-
--- DROP TABLE walmart;
+SELECT * FROM walmart; 
 
 -- Count total records
 SELECT COUNT(*) FROM walmart;
